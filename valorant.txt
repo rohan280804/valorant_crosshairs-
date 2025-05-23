@@ -1,0 +1,24 @@
+Texture/suygetsu : 0;p;0;s;1;P;c;8;u;FFF6CBFF;h;0;b;1;f;0;0l;3;0o;2;0a;1;0f;0;1b;0;A;c;8;u;FFF6CBFF;o;1;d;1;b;1;0l;2;0v;0;0g;1;0o;0;0a;1;0f;0;1b;0;S;c;0
+
+f0rsaken UFO : 0;s;1;P;c;8;u;FFF6CBFF;o;1;b;1;s;0;0t;3;0l;1;0v;0;0g;1;0o;0;0a;1;0f;0;1t;1;1l;4;1g;1;1o;0;1a;1;1m;0;1f;0;S;c;0;o;1
+
+demon1 : 0;p;0;s;1;P;c;8;u;FFF69BFF;o;1;b;1;s;0;0t;1;0l;3;0v;0;0o;2;0a;1;0f;0;1b;0;A;o;1;d;1;0l;2;0v;0;0g;1;0o;0;0a;1;0f;0;1b;0;S;c;0;o;1
+
+f0rsaken/jingg(4:3) : 0;s;1;P;c;7;u;00AEFFFF;o;1;f;0;s;0;0l;3;0v;2;0g;1;0o;1;0a;1;0f;0;1b;0;S;c;0;s;0.3;o;1
+
+yay : 0;p;0;s;1;P;c;7;u;000000FF;h;0;d;1;0l;4;0o;0;0a;1;0f;0;1b;0;A;c;8;u;000000FF;o;1;d;1;b;1;0b;0;1b;0;S;c;0
+
+OG f0rsaken : 0;p;0;s;1;P;u;000000FF;o;1;0t;1;0l;1;0v;4;0o;4;0a;1;0f;0;1t;1;1l;1;1o;3;1a;0;1m;0;1f;0;A;c;8;u;000000FF;o;1;d;1;b;1;0b;0;1b;0;S;c;0;s;1.031
+
+nats/miniboo : 0;p;0;s;1;P;c;8;u;39FF14FF;o;1;b;1;f;0;0t;1;0l;2;0o;2;0a;1;0f;0;1b;0;A;c;7;u;0023FEFF;o;1;d;1;0l;2;0v;0;0g;1;0o;0;0a;1;0f;0;1b;0;S;c;0;t;000000FF;o;1
+
+tenz : 0;p;0;s;1;P;c;5;u;00AEFFFF;h;0;0l;4;0o;2;0a;1;0f;0;1b;0;A;c;8;o;1;d;1;b;1;0b;0;1b;0;S;c;0
+
+dot(JAWGEMO / something) : 0;s;1;P;c;8;u;FFF6CBFF;o;1;d;1;b;1;f;0;s;0;0l;2;0v;0;0g;1;0o;0;0a;1;0f;0;1b;0;S;c;4;s;0.75;o;1
+
+suygetsu(4:3) : 0;p;0;s;1;P;c;4;u;00AEFFFF;o;1;f;0;0l;2;0v;0;0o;2;0a;1;0f;0;1b;0;A;c;8;u;000000FF;o;1;d;1;b;1;0b;0;1b;0;S;o;0.8
+
+suygetsu 1-2-2-1 : 0;p;0;s;1;P;c;4;u;00AEFFFF;o;1;f;0;0l;2;0v;0;0o;2;0a;1;0f;0;1b;0;A;c;8;u;000000FF;o;1;d;1;b;1;0b;0;1b;0;S;o;0.8
+
+tenz(s1mple) : 0;s;1;P;c;5;h;0;d;1;z;1;m;1;0t;1;0l;2;0o;2;0a;1;0e;0.81;1b;0;S;c;4;o;1
+
