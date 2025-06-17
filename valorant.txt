@@ -1,4 +1,4 @@
-Texture/suygetsu : 0;p;0;s;1;P;c;8;u;FFF6CBFF;h;0;b;1;f;0;0l;3;0o;2;0a;1;0f;0;1b;0;A;c;8;u;FFF6CBFF;o;1;d;1;b;1;0l;2;0v;0;0g;1;0o;0;0a;1;0f;0;1b;0;S;c;0
+Texture/suygetsu/patmen : 0;p;0;s;1;P;c;8;u;FFF6CBFF;h;0;b;1;f;0;0l;3;0o;2;0a;1;0f;0;1b;0;A;c;8;u;FFF6CBFF;o;1;d;1;b;1;0l;2;0v;0;0g;1;0o;0;0a;1;0f;0;1b;0;S;c;0
 
 f0rsaken UFO : 0;s;1;P;c;8;u;FFF6CBFF;o;1;b;1;s;0;0t;3;0l;1;0v;0;0g;1;0o;0;0a;1;0f;0;1t;1;1l;4;1g;1;1o;0;1a;1;1m;0;1f;0;S;c;0;o;1
 
@@ -21,4 +21,10 @@ suygetsu(4:3) : 0;p;0;s;1;P;c;4;u;00AEFFFF;o;1;f;0;0l;2;0v;0;0o;2;0a;1;0f;0;1b;0
 suygetsu 1-2-2-1 : 0;p;0;s;1;P;c;4;u;00AEFFFF;o;1;f;0;0l;2;0v;0;0o;2;0a;1;0f;0;1b;0;A;c;8;u;000000FF;o;1;d;1;b;1;0b;0;1b;0;S;o;0.8
 
 tenz(s1mple) : 0;s;1;P;c;5;h;0;d;1;z;1;m;1;0t;1;0l;2;0o;2;0a;1;0e;0.81;1b;0;S;c;4;o;1
+
+zeeq + : 0;s;1;P;c;7;o;0.213;f;0;s;0;0l;4;0o;0;0a;1;0f;0;1t;8;1l;1;1o;0;1a;1;1m;0;1f;0;S;c;6;s;0.9;o;1
+
+f0rsaken dot : 0;s;1;P;c;8;o;1;b;1;0b;0;1t;1;1l;1;1v;10;1o;0;1a;0;1m;0;1f;0;S;b;1;c;8;t;000000FF;o;1
+
+viscose + : 0;c;1;s;1;P;c;7;u;000000FF;t;2;o;0.35;d;1;0t;6;0l;1;0o;0;0a;1;0f;0;1t;6;1l;1;1o;0;1a;1;1m;0;1f;0;S;c;6;s;0.97;o;1
 
